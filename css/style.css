@@ -18,6 +18,7 @@ h2 {
 
 .about {
   margin: auto;
+  margin-bottom: 100px;
   width: 75%;
   background-color: #262626;
   font-family: cursive;
